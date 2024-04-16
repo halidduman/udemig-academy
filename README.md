@@ -10,6 +10,7 @@ Tek sayfadan oluşan bu web sitesi, mordan koyu mora geçişli bir renk paleti i
 **Logo:**
 
 <img src="images/logo-light.svg" alt="Açıklama" width="250">
+<img src="images/logo-dark.svg" alt="Açıklama" width="250">
 
 **Genel Görsel:**
 
